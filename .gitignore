@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.VC.db
+
+# Build folders
+x64/
+Debug/
+Release/
+build/
+
+# Temporary
+*.log
+*.tmp

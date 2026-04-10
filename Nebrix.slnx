@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NebrixStudio/NebrixStudio.vcxproj" Id="54c4a027-d886-42cc-b848-d084426e0663" />
+</Solution>
