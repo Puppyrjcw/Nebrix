@@ -2,7 +2,7 @@
 ***
 [![Nebrix Logo](https://i.postimg.cc/j2V0WgK9/Nebrix.png "Nebrix Logo")](https://i.postimg.cc/j2V0WgK9/Nebrix.png "Nebrix Logo")
 
-Nebrix is a **work in progress **online platform where anyone can **create, share, and play games**. With powerful creation tools and a community-driven world, **the only limit is your imagination.**
+Nebrix is a **work in progress** online platform where anyone can **create, share, and play games**. With powerful creation tools and a community-driven world, **the only limit is your imagination.**
 
 ***
 
