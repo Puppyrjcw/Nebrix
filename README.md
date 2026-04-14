@@ -36,9 +36,10 @@ Nebrix is still in early development, but we have exciting plans for the future:
 ## Socials
 
 <p align="left">
-  <a href="[https://discord.gg/tFcYPu5g">
-    <img src="![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?label=Discord&logo=discord&color=5865F2)" alt="Discord"/>
+  <a href="https://discord.gg/tFcYPu5g">
+    <img src="https://img.shields.io/discord/YOUR_SERVER_ID?label=Discord&logo=discord&color=5865F2" alt="Discord"/>
   </a>
+</p>
 </p>
 
 © 2026 Nebrix. All rights reserved.
