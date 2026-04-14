@@ -33,4 +33,8 @@ Nebrix is still in early development, but we have exciting plans for the future:
 - Custom Assets: Users will be able to import custom meshes, textures, and other assets to bring their creations to life.
 - Expanded Creation Tools: More advanced building, scripting, and gameplay options will allow endless creativity.
 
+## Socials
+
+**Discord:** https://discord.gg/tFcYPu5g
+
 © 2026 Nebrix. All rights reserved.
