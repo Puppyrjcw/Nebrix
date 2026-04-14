@@ -37,7 +37,7 @@ Nebrix is still in early development, but we have exciting plans for the future:
 
 <p align="left">
   <a href="[https://discord.gg/tFcYPu5g">
-    <img src="[https://camo.githubusercontent.com/f9659354cc1c9e6c64d70feb95a2d185a7efafc6814c5a1de25697d8a14b47e0/68747470733a2f2f692e706f7374696d672e63632f6a32563057674b392f4e65627269782e706e67" alt="Discord"/>
+    <img src="https://i.postimg.cc/XJcDyrpf/Nebrix.png" alt="Discord"/>
   
   </a>
 </p>
