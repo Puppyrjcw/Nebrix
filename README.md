@@ -37,4 +37,8 @@ Nebrix is still in early development, but we have exciting plans for the future:
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord)](https://discord.gg/Dwha8GE3jw)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Puppyrjcw/Nebrix)
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://puppyrjcw.github.io/Nebrix-Website/)
+
 © 2026 Nebrix. All rights reserved.
